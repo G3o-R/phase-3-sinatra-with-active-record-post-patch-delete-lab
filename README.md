@@ -64,3 +64,5 @@ like this as params:
 ## Resources
 
 - [Sinatra Routes](https://rubydoc.info/gems/sinatra#routes)
+
+https://github.com/G3o-R/phase-3-sinatra-with-active-record-post-patch-delete-lab
